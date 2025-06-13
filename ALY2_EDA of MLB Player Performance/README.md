@@ -2,7 +2,7 @@
 
 This repository contains the second R project for the ALY6000 course, which involves performing exploratory data analysis (EDA) on two real-world datasets: the 2015 World Happiness Report and 1986 Major League Baseball (MLB) player statistics. The goal is to extract insights, visualize patterns, and interpret findings that can inform policy or strategic decisions.
 
-## 📘 Project Overview
+## Project Overview
 
 This project is divided into two main parts:
 
@@ -25,7 +25,7 @@ This project is divided into two main parts:
 - **ggplot2**: Custom data visualizations
 - **readr** and **dplyr**: Data import and manipulation
 
-## 📂 Datasets
+## Datasets
 
 1. **World Happiness Report 2015**
    - Source: [worldhappiness.report/ed/2015](https://worldhappiness.report/ed/2015)
@@ -35,7 +35,7 @@ This project is divided into two main parts:
    - Source: [baseball-reference.com](https://www.baseball-reference.com/leagues/MLB/1986-standard-batting.shtml)
    - Fields include: Player Name, Team, HR, RBI, SO, AVG, OBP, SLG, etc.
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### 1. Prerequisites
 - R and RStudio installed
@@ -54,7 +54,7 @@ cd r-eda-two-datasets
 - Open the R script file (e.g., `Elenchezhian_Project2.R`) in RStudio.
 - Load both datasets and execute the code step-by-step to view visualizations and summaries.
 
-## 📊 Key Insights
+## Key Insights
 
 ### World Happiness Report
 - Higher happiness is correlated with freedom, family, and generosity.
@@ -64,7 +64,7 @@ cd r-eda-two-datasets
 - Jesse Barfield emerged as a standout MVP candidate.
 - Statistical measures provide a reliable basis for evaluating player performance.
 
-## 🧑‍💻 Author
+## Author
 
 **Sri Ram Prabu**  
 Project completed for **ALY6000: Introduction to Analytics**  
@@ -72,4 +72,4 @@ Date: **January 24, 2025**
 
 ---
 
-📄 *For a complete analysis, see `Elenchezhian_Project2_Report.pdf`.*
+*For a complete analysis, see `Elenchezhian_Project2_Report.pdf`.*
