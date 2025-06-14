@@ -1,10 +1,10 @@
-# 🎮 **SteamScope: Deep Dive into Steam Game Trends**
+# **SteamScope: Deep Dive into Steam Game Trends**
 
-> *Uncovering patterns in 🏷️ game pricing strategies, ⏱️ player engagement via playtime, 🧠 user sentiment through reviews, and 🎮 genre and category trends through data science.*
+> *Uncovering patterns in 🏷 game pricing strategies, ⏱ player engagement via playtime,  user sentiment through reviews, and  genre and category trends through data science.*
 
 ---
 
-## 📊 Overview
+## Overview
 
 **SteamScope** is an exploratory data analysis (EDA) project that investigates the **Steam games ecosystem** using a comprehensive dataset of over 97,000 games. This project leverages data cleaning, feature engineering, and visualization techniques to extract meaningful insights into:
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 - Understand trends in game pricing and accessibility.
 - Segment games by engagement levels and price tiers.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 - **Source:** Kaggle, Steam API, and third-party providers  
 - **Size:** ~97,000 games  
@@ -33,7 +33,7 @@
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 - Converted date fields to datetime format
 - Removed columns with >60% missing data
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚙️ Feature Engineering
+## ⚙ Feature Engineering
 
 | Feature            | Description                                                             |
 |--------------------|-------------------------------------------------------------------------|
@@ -52,7 +52,7 @@
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 - Distribution analysis of **price** and **playtime**
 - **Genre frequency** and popularity trends
@@ -61,7 +61,7 @@
 
 ---
 
-## 🖼️ Visualizations
+##  Visualizations
 
 Included:
 - Box plots and histograms
@@ -73,7 +73,7 @@ Included:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **Free and low-cost games dominate** the market, making gaming accessible to a wide audience.
 - **Indie and casual genres** are the most prevalent.
@@ -82,7 +82,7 @@ Included:
 
 ---
 
-## 📚 References
+## References
 
 - Kaggle Steam Dataset: [link](https://www.kaggle.com/)
 - R Project: [r-project.org](https://www.r-project.org/)
@@ -92,7 +92,7 @@ Included:
 
 ---
 
-## 🧪 Tools Used
+## Tools Used
 
 - `R` for statistical analysis and visualization
 - `ggplot2`, `dplyr`, `tidyverse` for EDA
@@ -100,7 +100,7 @@ Included:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repo:
    ```bash
