@@ -112,7 +112,7 @@ Included:
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Sri Ram Prabu Elenchezhian**  
 *Connect with me via [LinkedIn](https://www.linkedin.com/) or email*
