@@ -1,19 +1,19 @@
 
-# 🎲 ProbabiliTrend: Analytical Insights through Counting & Probability
+# ProbabiliTrend: Analytical Insights through Counting & Probability
 
-## 📊 Project Overview
+## Project Overview
 
 **ProbabiliTrend** is a hands-on analytics project focusing on **combinatorics and probability theory**. Developed as part of the ALY6000: Introduction to Analytics course, this project explores the foundational elements of probability using real-world-inspired problems and quantitative reasoning. It includes both required and challenge sections, offering in-depth analysis and applications.
 
-## ✍️ Author  
+##  Author  
 **Sri Ram Prabu**
 
-## 🗓️ Date  
+##  Date  
 **February 14, 2025**
 
 ---
 
-## 📌 Core Topics Covered
+## Core Topics Covered
 
 - Fundamental principles of **counting** (permutations, combinations)
 - Classical and conditional **probability**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔢 Key Concepts Illustrated
+## Key Concepts Illustrated
 
 - Probability of union and intersection of events  
 - Binomial and multinomial models  
@@ -33,7 +33,7 @@
 
 ---
 
-## 📈 Tools & Techniques
+## Tools & Techniques
 
 This project primarily uses:
 
@@ -43,7 +43,7 @@ This project primarily uses:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 ProbabiliTrend/
@@ -57,7 +57,7 @@ ProbabiliTrend/
 
 ---
 
-## 📚 References
+## References
 
 - Casella, G., & Berger, R. L. (2002). *Statistical Inference* (2nd ed.)
 - Ross, S. M. (2019). *Introduction to Probability and Statistics for Engineers and Scientists* (6th ed.)
@@ -67,7 +67,7 @@ ProbabiliTrend/
 
 ---
 
-## 📌 Use Cases
+## Use Cases
 
 This repository can be a reference for:
 
@@ -78,7 +78,7 @@ This repository can be a reference for:
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Add **interactive R Shiny app** for simulating event spaces
 - Integrate **data visualizations** for probability distributions
