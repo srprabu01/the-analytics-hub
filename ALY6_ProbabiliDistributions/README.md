@@ -159,15 +159,3 @@ source("R/40_penguins_eda.R")
 - Wickham, H. & Grolemund, H. (2017). *R for Data Science*.  
 - Moore, D. S., McCabe, G. P., & Craig, B. A. (2017). *Introduction to the Practice of Statistics* (9th ed.).
 
----
-
-## License
-This project is released under the **MIT License**. See `LICENSE` for details.
-
----
-
-### How to use this README
-- **Drop it** at your repo root as `README.md`.  
-- **Adjust paths** in code blocks to match your folder structure.  
-- **Swap in** your actual script names if they differ.  
-- **Push!** Your repo now has a clear, reproducible entry point.
